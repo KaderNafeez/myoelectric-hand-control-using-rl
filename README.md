@@ -1,4 +1,4 @@
-#Adaptive Myoelectric Hand Control using RL
+# Adaptive Myoelectric Hand Control using RL
 
 Prosthetic arms are designed to replace lost limb functionality, enabling individuals
 to perform essential motor tasks using assistive technology. However, conventional
